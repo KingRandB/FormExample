@@ -1,0 +1,39 @@
+
+
+body {
+  background-color:rgb(221,228,241);
+}
+
+
+
+h1 {
+  color:white;
+  text-align: center;
+  text-shadow: 2px 2px 4px black;
+}
+
+IMG{
+  float: right;
+}
+div { 
+  text-align: left;
+}
+
+input[type=text]:focus {
+  border: 1px solid rgb(72, 95, 136);
+}
+
+input select:focus {
+  border: 1px solid rgb(72, 95, 136);
+
+}
+
+
+
+ #E:hover
+    {
+      background-color:rgb(36, 173, 109);
+    
+    }    
+
+  
